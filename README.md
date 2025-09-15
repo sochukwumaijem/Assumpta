@@ -1,4 +1,4 @@
-# Hey, I'm Sochukwuma Ijem 👋
+# Hey, I'm SochukwumaIjem 👋
 
 ### Full-Stack Web Developer | Lifelong Learner  
 
