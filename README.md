@@ -39,8 +39,8 @@ Grow as a Full-Stack Web Developer, collaborate with great teams, and deliver im
 ---
 
 ### 📬 How to reach me
-- Email: [devassumpta@gmail.com](mailto:devassumpta@gmail.com)  
-- Portfolio: [Live Portfolio](https://ass.kesug.com/portifolio?i=1)  
+- Email: [sumatech@gmail.com](mailto:sumatech200@gmail.com)  
+- Portfolio: [Live Portfolio](https://ass.kesug.com/SumaTechHub)  
 
 ---
 
