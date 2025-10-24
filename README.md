@@ -1,4 +1,4 @@
-# Hey, I'm SochukwumaIjem 👋
+# Hey, I'm Assumpta(SumaTech) 👋
 
 ### Full-Stack Web Developer | Lifelong Learner  
 
