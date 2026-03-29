@@ -1,9 +1,5 @@
-# Hey, I'm Assumpta(SumaTech) 👋
-
-### Full-Stack Web Developer | Lifelong Learner  
-
-💡 Passionate about creating **websites** and **web systems** that are clean, responsive, and user-friendly.  
-🚀 Skilled in **HTML, CSS, JavaScript, PHP & MySQL** — building both the front-end and back-end of web projects.  
+I'm Ogugua Assumpta Sochukwumaijem</strong>, a dedicated Full Stack Web Developer based in Nigeria with a deep passion for crafting web experiences that are both functional and visually compelling.</p>
+      <p>My journey spans frontend and backend — from clean HTML/CSS and expressive JavaScript, to robust PHP server-side logic and MySQL database management.
 
 ---
 
