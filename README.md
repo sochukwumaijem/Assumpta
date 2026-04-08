@@ -35,8 +35,8 @@ Grow as a Full-Stack Web Developer, collaborate with great teams, and deliver im
 ---
 
 ### 📬 How to reach me
-- Email: [sumatech@gmail.com](mailto:sumatech200@gmail.com)  
-- Portfolio: [Live Portfolio](https://ass.kesug.com/SumaTechHub)  
+- Email: [sumatech200@gmail.com](mailto:sumatech200@gmail.com)  
+- Portfolio: [Live Portfolio](https://ogugua.vercel.app/)  
 
 ---
 
